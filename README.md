@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **CyberSecurity, Godot, Python, C/C++, Rust, TypeScript**
 
-- 📫 How to reach me **hinvielfege@gmail.com**
+- 📫 How to reach me **smolpeacat@gmail.com**
 
 - ⚡ Fun fact **I LOVE to learn new things**
 
