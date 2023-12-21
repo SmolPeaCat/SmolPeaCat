@@ -26,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smolpeacat&show_icons=true&locale=en" alt="smolpeacat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smolpeacat&" alt="smolpeacat" /></p>
+<script src="https://tryhackme.com/badge/2580576"></script>
 
