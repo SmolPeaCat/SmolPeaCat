@@ -2,7 +2,8 @@
 <h3 align="center">A passionate CS student from Belgium</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=smolpeacat&label=Profile%20views&color=0e75b6&style=flat" alt="smolpeacat" /> </p>
-<p><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/SmolPeaCat.png" alt="TryHackMe"></p>
+
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/SmolPeaCat.png" alt="TryHackMe"/></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smolpeacat" alt="smolpeacat" /></a> </p>
 
