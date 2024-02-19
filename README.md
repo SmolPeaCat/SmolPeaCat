@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smolpeacat" alt="smolpeacat" /></a> </p>
 
-- 🌱 I’m currently learning **Python, C# and Javascript**
+- 🌱 I’m currently learning **Python and C++ :D**
 
 - 📫 How to reach me **HinviElfege@gmail.com**
 
