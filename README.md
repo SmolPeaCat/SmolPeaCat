@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smolpeacat&label=Profile%20views&color=0e75b6&style=flat" alt="smolpeacat" /> </p>
 
-- 🌱 I’m currently learning **Ruby and Astrojs :D**
+- 🌱 I’m currently learning **.NET :D**
 
 - 📫 How to reach me **SmolPeaCat@gmail.com**
 
