@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Elfège</h1>
 <h3 align="center">A passionate CS student from Belgium</h3>
 
-- 🌱 I’m currently learning **GAME DEV**
+- 🌱 I’m currently learning **A lot of things**
 
 - 📫 How to reach me **HinviElfege@gmail.com**
 
